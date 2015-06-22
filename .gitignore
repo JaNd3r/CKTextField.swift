@@ -32,3 +32,5 @@ TextFieldDemo/Pods/
 # Carthage/Checkouts
 
 Carthage/Build
+
+*.xcworkspacedata
